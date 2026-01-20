@@ -49,7 +49,7 @@ Additionally, this project represents my first exposure to both Kaggle and GitHu
 
 A boxplot was used to compare math scores between students who completed the test preparation course and those who did not.
 
-![Math score comparison](math.score_boxplots.png)
+![Math score comparison](images/math.score_boxplots.png)
 
 The 358 students who completed the test preparation course show a higher average and more compact results, with the lowest score being close to 20.
 In contrast, the 642 students who did not complete the course present a wider dispersion of scores, including lower outliers than those observed in the group that completed the preparation course.
@@ -58,8 +58,8 @@ In contrast, the 642 students who did not complete the course present a wider di
 
 I generated histograms to visualize the distribution of the reading scores.
 
-![Reading scores of those who took the test course](reading_distribution_cumplidos.png)
-![Reading scores of those who didn't take the test course](reading_distribution_incumplidos.png)
+![Reading scores of those who took the test course](images/reading_distribution_cumplidos.png)
+![Reading scores of those who didn't take the test course](images/reading_distribution_incumplidos.png)
 
 Separating students into two groups—those who completed the test preparation course and those who did not—proved to be a meaningful decision.
 Using measures of central tendency such as the mean, median, and standard deviation, we can confirm that **this categorical variable does show an association with better academic performance** for students who completed the course.
@@ -73,8 +73,8 @@ Using measures of central tendency such as the mean, median, and standard deviat
 
 Scatter plots were used to explore the relationship between reading and writing scores.
 
-![Reading vs Writing - Completed](read_write_relation_cumplidos.png)
-![Reading vs Writing - Not completed](read_write_relation_incumplidos.png)
+![Reading vs Writing - Completed](images/read_write_relation_cumplidos.png)
+![Reading vs Writing - Not completed](images/read_write_relation_incumplidos.png)
 
 Both groups exhibit a positive relationship between reading and writing scores. However, the presence of several outliers prevents this relationship from being interpreted as a strict rule.
 While higher reading scores often coincide with higher writing scores, the dispersion of the data suggests that this association should be interpreted with caution.
