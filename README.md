@@ -1,4 +1,4 @@
-# Student performance analysis based on test preparation
+# Exploratory Data Analysis of Student Performance using R
 
 ---
 
