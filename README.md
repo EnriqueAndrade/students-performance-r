@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Student Performance using R
+# Exploratory Data Analysis of Student Performance
 
 ---
 
